@@ -10,19 +10,7 @@
     margin-right: 30px;
 }
 
-.carousel-control-prev-icon{
-    margin-left: -300px;
-}
 
-.carousel-control-next-icon{
-    margin-right: -300px;
-}
-
-.carousel{
-    margin-top: 100px;
-    margin-left: 100px;
-    margin-right: 100px;
-}
 
 .card-deck{
     margin-top: 30px;
@@ -50,3 +38,32 @@
 form{
     margin-right: 20px;
 }
+
+.modal {
+    display: none;
+    position: absolute;
+    width: 100%; 
+    height: 100%; 
+  }
+  .modal-content {
+    margin: 15% auto; 
+    padding: 20px;
+    border: 1px solid rgba(0, 0, 0, 0);
+    width: 20%; 
+  }
+  .close {
+    padding-left: 18em;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .modal-dialog{
+      width: 250px;
+  }
