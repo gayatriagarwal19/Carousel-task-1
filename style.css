@@ -1,0 +1,52 @@
+.content{
+    border: red solid 2px;
+    margin: 5px;
+    background-color: burlywood;
+}
+
+.jumbotron{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.carousel-control-prev-icon{
+    margin-left: -300px;
+}
+
+.carousel-control-next-icon{
+    margin-right: -300px;
+}
+
+.carousel{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.card-deck{
+    margin-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+.card-img-top{
+    height: 300px;
+}
+
+.d-block{
+    height: 80%;
+}
+
+.card-body{
+    height: 20%;
+}
+
+.col-sm-8{
+    margin-left: 400px;
+    margin-bottom: 20px;
+}
+
+form{
+    margin-right: 20px;
+}
