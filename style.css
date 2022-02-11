@@ -10,10 +10,12 @@
     margin-right: 30px;
 }
 
-
+.carousel-item{
+    height: 1200px;
+}
 
 .card-deck{
-    margin-top: 30px;
+    margin-top: -150px;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 30px;
@@ -31,9 +33,12 @@
 }
 
 .col-sm-8{
-    margin-left: 400px;
-    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
 }
+
 
 form{
     margin-right: 20px;
